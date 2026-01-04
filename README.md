@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![alt text](desktop-view.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-solution-using-html-css-AhpHLvpp_z)
 - Live Site URL: (https://nakshatra2410.github.io/QR-CODE-COMPONENT/)
 
 ## My process
